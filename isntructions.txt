@@ -1,0 +1,11 @@
+Schleifen (for / while)
+    Aufbau Schleifen
+    Wie geht eine Schleife
+        counter programm mit pyfiglet
+    Was ist der Unterschied zwischen while / for
+
+{Listen}
+    Was ist eine Liste --> {"name": "jeremias"}
+    Was ist ein key --> "name":
+    was ist eine Value --> "jeremias"
+    was ist .items? --> 
