@@ -1,29 +1,36 @@
-Help for Idiots 
-Sollte eigentlich PfI heißen aber ich hab die repo so getauft weils eingentlich besser ist.
-Die Folgen werden eigentlich täglich auf YouTube droppen.
-Keine Ahnung ob in der Zukunft auf YouTube mehrere Sachen passieren
-Die Repo sollte geordnet sein aber, ich hab keinen bock den scheiß zu ordnen.
+# Help for Idiots
 
-Die Youtube Videos sind meist am Anfang nicht so schizo, aber mit der zeit wird mehr. In ein paar monaten hab ich keine ahnung ob ich noch leben wird
-die schizophrenie geht eigentlich linear hoch. keine ahnung wie ich das so weiter machen werde, ich hoffe die qualität der videos sind ausreichend, wenn ich in der zukunft
-mal nen tag oder 2tage was nicht uploade wird es wegen ESXi sein oder wegen VmWare Workstation 16. 
+Sollte eigentlich **PfI** heißen, aber ich hab die Repo so getauft, weil's eigentlich besser ist.  
+Die Folgen werden eigentlich täglich auf YouTube droppen.  
+Keine Ahnung, ob in der Zukunft auf YouTube mehrere Sachen passieren.  
+Die Repo sollte geordnet sein, aber ich hab keinen Bock den Scheiß zu ordnen.
 
-Falls sich wer interresiert welche Distro / Specs die VM hat
-  
-  
-  OS: ArchLinux
-  RAM: 20GB
-  SSD Platz: 20GB (ich speichere alles auf ner NAS)
-  CPU: AMD Ryzen 5 5600X mit 4 Kernen (eigentlich 6 aber ich habe 2 für Windows / 4 für VmWare)
-  Netzwerk: NAT Bridge (um access auf Reddit zu haben wegen r/dankmemes)
+Die YouTube-Videos sind meist am Anfang nicht so *schizo*, aber mit der Zeit wird es mehr.  
+In ein paar Monaten hab ich keine Ahnung, ob ich noch leben werde.  
+Die Schizophrenie geht eigentlich linear hoch. Keine Ahnung, wie ich das so weitermachen werde.  
+Ich hoffe, die Qualität der Videos ist ausreichend. Wenn ich in der Zukunft mal einen oder zwei Tage nichts hochlade, wird es wegen **ESXi** sein oder wegen **VMware Workstation 16**.
 
-Falls ich in der Zukunft mal nen ESXi Server mach wird der diese Specs haben:
-  
-  
-  OS: ESXi (ofc xD)
-  RAM: 32GB --> werde upgraden auf 64GB
-  CPU: Intel i7-4770 (ik er ist alt aber tuts, 4 Cores)
-  SSD: 1TB Platz VMS können sehr Platz intens werden
-  Netwzwerk: 10Gbit Karte (wahrscheindlich ne billige DLink oder was anderes)
+---
 
-Falls ich in der Zukunft mal das machen werde wird definitiv ein Video darüber kommen. Ich plane es ein für anfang 2025!
+## Falls sich wer interessiert, welche Distro / Specs die VM hat:
+
+- **OS**: ArchLinux  
+- **RAM**: 20 GB  
+- **SSD Platz**: 20 GB (ich speichere alles auf ner NAS)  
+- **CPU**: AMD Ryzen 5 5600X mit 4 Kernen (eigentlich 6, aber ich habe 2 für Windows / 4 für VMware)  
+- **Netzwerk**: NAT Bridge (um Access auf Reddit zu haben wegen r/dankmemes)
+
+---
+
+## Falls ich in der Zukunft mal nen ESXi-Server mache, wird der diese Specs haben:
+
+- **OS**: ESXi (ofc xD)  
+- **RAM**: 32 GB → werde upgraden auf 64 GB  
+- **CPU**: Intel i7-4770 (ik, er ist alt, aber tuts; 4 Cores)  
+- **SSD**: 1 TB Platz (VMs können sehr platzintensiv werden)  
+- **Netzwerk**: 10 Gbit Karte (wahrscheinlich ne billige D-Link oder was anderes)
+
+---
+
+Falls ich in der Zukunft mal das machen werde, wird definitiv ein Video darüber kommen.  
+Ich plane es ein für Anfang **2025**!
