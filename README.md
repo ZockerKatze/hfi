@@ -9,6 +9,8 @@ die schizophrenie geht eigentlich linear hoch. keine ahnung wie ich das so weite
 mal nen tag oder 2tage was nicht uploade wird es wegen ESXi sein oder wegen VmWare Workstation 16. 
 
 Falls sich wer interresiert welche Distro / Specs die VM hat
+  
+  
   OS: ArchLinux
   RAM: 20GB
   SSD Platz: 20GB (ich speichere alles auf ner NAS)
@@ -16,6 +18,8 @@ Falls sich wer interresiert welche Distro / Specs die VM hat
   Netzwerk: NAT Bridge (um access auf Reddit zu haben wegen r/dankmemes)
 
 Falls ich in der Zukunft mal nen ESXi Server mach wird der diese Specs haben:
+  
+  
   OS: ESXi (ofc xD)
   RAM: 32GB --> werde upgraden auf 64GB
   CPU: Intel i7-4770 (ik er ist alt aber tuts, 4 Cores)
