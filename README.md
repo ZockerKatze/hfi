@@ -19,7 +19,7 @@ Ich hoffe, die Qualität der Videos ist ausreichend. Wenn ich in der Zukunft mal
 - **SSD Platz**: 20 GB (ich speichere alles auf ner NAS)  
 - **CPU**: AMD Ryzen 5 5600X mit 4 Kernen (eigentlich 6, aber ich habe 2 für Windows / 4 für VMware)  
 - **Netzwerk**: NAT Bridge (um Access auf Reddit zu haben wegen r/dankmemes)
-
+- **Tastatur**: Ich nutze irgend eine sehr billige Tastatur mit Red-Switches vorher wars eine Logitech mit MX-Blue!
 ---
 
 ## Falls ich in der Zukunft mal nen ESXi-Server mache, wird der diese Specs haben:
