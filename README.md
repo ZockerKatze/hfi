@@ -1,4 +1,4 @@
-# Help for Idiots
+# PfI
 
 Sollte eigentlich **PfI** heißen, aber ich hab die Repo so getauft, weil's eigentlich besser ist.  
 Die Folgen werden eigentlich täglich auf YouTube droppen.  
