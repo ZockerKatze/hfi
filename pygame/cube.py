@@ -1,6 +1,7 @@
-import pygame
-import numpy as np
 import math
+
+import numpy as np
+import pygame
 
 # Initialize Pygame
 pygame.init()
@@ -12,7 +13,7 @@ pygame.display.set_caption("3D Cube")  # Set the window title
 
 # Colors
 WHITE = (255, 255, 255)  # Color for the cube edges
-BLACK = (0, 0, 0)        # Background color
+BLACK = (0, 0, 0)  # Background color
 
 # Clock for controlling frame rate
 clock = pygame.time.Clock()
@@ -20,13 +21,13 @@ clock = pygame.time.Clock()
 # Cube vertices: Define the 8 corners of the cube
 vertices = [
     [-1, -1, -1],
-    [-1, -1,  1],
-    [-1,  1, -1],
-    [-1,  1,  1],
-    [ 1, -1, -1],
-    [ 1, -1,  1],
-    [ 1,  1, -1],
-    [ 1,  1,  1],
+    [-1, -1, 1],
+    [-1, 1, -1],
+    [-1, 1, 1],
+    [1, -1, -1],
+    [1, -1, 1],
+    [1, 1, -1],
+    [1, 1, 1],
 ]
 
 # Cube edges: Connect the vertices to form the edges of the cube
@@ -39,24 +40,27 @@ edges = [
 # Convert vertices to a numpy array for easier math operations
 vertices = np.array(vertices)
 
+
 # Define rotation matrices for rotating around each axis
 def rotate_x(angle):
     """Rotation matrix for X-axis."""
     c, s = math.cos(angle), math.sin(angle)
     return np.array([
-        [1, 0,  0],
+        [1, 0, 0],
         [0, c, -s],
-        [0, s,  c]
+        [0, s, c]
     ])
+
 
 def rotate_y(angle):
     """Rotation matrix for Y-axis."""
     c, s = math.cos(angle), math.sin(angle)
     return np.array([
-        [ c, 0, s],
-        [ 0, 1, 0],
+        [c, 0, s],
+        [0, 1, 0],
         [-s, 0, c]
     ])
+
 
 # Function to project 3D points onto the 2D screen
 def project(point, width, height):
@@ -70,6 +74,7 @@ def project(point, width, height):
     x = int(point[0] * factor + width / 2)  # Center on screen
     y = int(-point[1] * factor + height / 2)
     return (x, y)
+
 
 # Main loop
 running = True
